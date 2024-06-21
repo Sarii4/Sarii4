@@ -1,8 +1,5 @@
- 👋 Hi, I’m @Sarii4
- 👀 I’m interested in programming
- 🌱 I’m currently learning Javascript. Soon Java 🙌
- 💫 About Me:
-
+# 💫 About Me:
+🌱I'm currently learning Javascript. Soon Java 🙌
 
 
 ## 🌐 Socials:
@@ -22,12 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=Sarii4&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Sarii4/Sarii4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
