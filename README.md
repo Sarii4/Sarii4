@@ -1,5 +1,6 @@
-![github-header-image (2)](https://github.com/Sarii4/Sarii4/assets/169152621/5493ca7b-c4e1-48e8-8fa2-f919011cf909)
-# 💫 About Me:
+
+# ![github-header-image (6)](https://github.com/Sarii4/Sarii4/assets/169152621/a37a2baf-0a41-4afd-9bb9-5eda66b5e652)
+💫 About Me:
 🌱I'm currently learning Javascript. Soon Java 🙌
 
 
