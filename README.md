@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sarii4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...# 💫 About Me:
-🌱I'm currently learning Javascript. Soon Java 🙌
+ 👋 Hi, I’m @Sarii4
+ 👀 I’m interested in programming
+ 🌱 I’m currently learning Javascript. Soon Java 🙌
+ 💫 About Me:
+
 
 
 ## 🌐 Socials:
