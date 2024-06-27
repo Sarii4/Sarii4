@@ -3,6 +3,15 @@
 💫 About Me:
 🌱I'm currently learning Javascript. Soon Java 🙌
 
+Mix of curiosity, persistence, creativity and meticulousness 🎨  
+  
+I have always felt a connection with art, with creating something for myself and with technology, but I managed to find where I could exploit my potential until I discovered programming.  
+  
+I am passionate about combining creativity and tech and I can finally show what I can do.  
+  
+Do you want to discover it?👾
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sara-teran-537546204/) 
