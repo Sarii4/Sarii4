@@ -1,9 +1,9 @@
 
 # ![github-header-image (6)](https://github.com/Sarii4/Sarii4/assets/169152621/a37a2baf-0a41-4afd-9bb9-5eda66b5e652)
 💫 About Me:
-🌱I'm currently learning Javascript. Soon Java 🙌
+🌱Javascript with React and Java 🙌
 
-Mix of curiosity, persistence, creativity and meticulousness 🎨  
+Curiosity, persistence, creativity and meticulousness defins me 🎨  
   
 I have always felt a connection with art, with creating something for myself and with technology, but I managed to find where I could exploit my potential until I discovered programming.  
   
