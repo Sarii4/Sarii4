@@ -1,3 +1,4 @@
+![github-header-image](https://github.com/user-attachments/assets/25b6a973-4545-45da-abb0-21f0a5222008)
 # 💫 About Me:
 💫 About Me:<br>🌱Javascript with React and Java 🙌<br><br>Curiosity, persistence, creativity and meticulousness defins me 🎨  <br>  <br>I have always felt a connection with art, with creating something for myself and with technology, but I managed to find where I could exploit my potential until I discovered programming.  <br>  <br>I am passionate about combining creativity and tech and I can finally show what I can do.  <br>  <br>Do you want to discover it?👾<br>
 
